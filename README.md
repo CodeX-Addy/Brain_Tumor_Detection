@@ -1,1 +1,1 @@
-As a brain tumor enlarges, it affects the normal functioning of that part of the brain. Early detection and early treatment of a brain tumor can safeguard the normal surrounding brain. It may also increase the treatment options.
+As a brain tumor enlarges, it affects the normal functioning of that part of the brain, which is also known as the intracranial defect. Early detection and early treatment of a brain tumor can safeguard the normal surrounding brain. It may also increase the treatment options.

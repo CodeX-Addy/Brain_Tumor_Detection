@@ -20,6 +20,14 @@ ResNet (Residual Network) introduced residual connections to enable the training
 
 The models in this repository were trained and evaluated using the kaggle dataset consisting of brain MRI images with corresponding tumor labels. Due to privacy concerns, the dataset cannot be provided directly within this repository.
 
+## Team:
+
+[Aditya](https://github.com/BANZOM)
+
+[Aditya Tomar](https://github.com/CodeX-Addy/)
+
+[Anurag Chaudhary](https://github.com/Anurag1Chaudhary/)
+
 
 
 
